@@ -1,0 +1,21 @@
+div{
+    background-color: slategray;
+    width: 500px;
+    height: auto;
+    text-align: right;
+    float: left;
+}
+aside{
+    background-color: slategray;
+    width: 500px;
+    height: auto;
+    text-align: left;
+    float: left;
+    margin-left: 5px;
+}
+footer{
+    background-color: slategray;
+    width: 500px;
+    height: 36px;
+    float: left;
+}
